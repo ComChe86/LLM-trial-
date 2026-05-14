@@ -1,0 +1,5 @@
+Model,Provider,Input ($/1M tokens),Output ($/1M tokens),Context window,Notes
+Gemini 3 Pro,Google,$2.00,$12.00,1M tokens,"Tiered: >200K context costs $4.00/$18.00. Thinking tokens included in output cost"
+Claude Sonnet 4.6,Anthropic,$3.00,$15.00,1M tokens,"Flat pricing across full 1M context. No long-context surcharge"
+Claude Opus 4.7,Anthropic,$5.00,$25.00,1M tokens,"Same list price as Opus 4.6, but new tokenizer can add up to 35% more tokens for identical text"
+GPT-5.5,OpenAI,$5.00,$30.00,1M tokens,"Released April 23 2026. >272K context costs 2x input / 1.5x output. Thinking tokens billed as output"
